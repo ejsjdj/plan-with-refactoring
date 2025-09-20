@@ -1,8 +1,3 @@
-# Read Me First
-The following was discovered as part of building this project:
-
-* The original package name 'com.kurie's_guardians.planwith' is invalid and this project uses 'com.kurie.s_guardians.planwith' instead.
-
 # Getting Started
 
 ### Reference Documentation
